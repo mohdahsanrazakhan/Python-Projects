@@ -80,5 +80,4 @@ button_save_tasks.pack()
 
 root.mainloop()
 
-# This project is created by using: tkinter module, Listbox Widget, 
-# Scrollbar widget, tkinter.messagebox, Try/Exept Block, pickle
+# This project is created by using: tkinter module, Listbox Widget, Scrollbar widget, tkinter.messagebox, Try/Exept Block, pickle
