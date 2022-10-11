@@ -5,6 +5,10 @@ import pickle
 root = Tk()
 root.title("To-Do List")
 
+# root.geometry("330x290")
+root.maxsize(330, 290)
+root.minsize(330, 290)
+
 
 def add_task():
     task = entry_task.get()
